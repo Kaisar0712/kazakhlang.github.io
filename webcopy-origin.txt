@@ -1,0 +1,200 @@
+Uri: https://assets.nicepagecdn.com/7dfe0371/6061660/images/1200px-Flag_of_Kazakhstan.png
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\7dfe0371\6061660\images\1200px-Flag_of_Kazakhstan.png
+Content Type: image/png
+
+Uri: https://assets.nicepagecdn.com/7dfe0371/6061660/images/1200_0_a7b69c973c7b18d73582161c22c681a8.jpg
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\7dfe0371\6061660\images\1200_0_a7b69c973c7b18d73582161c22c681a8.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.nicepagecdn.com/7dfe0371/6061660/images/3ba61d714d16039a01045ab409cb8172.jpg
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\7dfe0371\6061660\images\3ba61d714d16039a01045ab409cb8172.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.nicepagecdn.com/7dfe0371/6061660/images/alas1.png
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\7dfe0371\6061660\images\alas1.png
+Content Type: image/png
+
+Uri: https://assets.nicepagecdn.com/7dfe0371/6061660/images/history.jpg
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\7dfe0371\6061660\images\history.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.nicepagecdn.com/7dfe0371/6061660/images/kazakhstan-history-pictures-5.jpg
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\7dfe0371\6061660\images\kazakhstan-history-pictures-5.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.nicepagecdn.com/7dfe0371/6061660/images/Map-Kazakhstan.jpg
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\7dfe0371\6061660\images\Map-Kazakhstan.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.nicepagecdn.com/7dfe0371/6061660/images/nation5-1920x1280.png
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\7dfe0371\6061660\images\nation5-1920x1280.png
+Content Type: image/png
+
+Uri: https://assets.nicepagecdn.com/7dfe0371/6061660/images/pexels-photo-3443934.jpeg
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\7dfe0371\6061660\images\pexels-photo-3443934.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.nicepagecdn.com/7dfe0371/6061660/images/w1500_37910821.jpg
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\7dfe0371\6061660\images\w1500_37910821.jpg
+Content Type: image/jpeg
+
+Uri: https://capp.nicepage.com/745dd4017bbb3e070b44d28039d992ecf93bee2d/nicepage.css
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\745dd4017bbb3e070b44d28039d992ecf93bee2d\nicepage.css
+Content Type: text/css
+
+Uri: https://capp.nicepage.com/745dd4017bbb3e070b44d28039d992ecf93bee2d/nicepage.js
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\745dd4017bbb3e070b44d28039d992ecf93bee2d\nicepage.js
+Content Type: application/x-javascript
+
+Uri: https://capp.nicepage.com/assets/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\assets\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\ptsans\v17\jizaRExUiTo99u79D0KEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizdRExUiTo99u79D0e8fOydLxUY.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\ptsans\v17\jizdRExUiTo99u79D0e8fOydLxUY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tKA.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\ptsans\v17\jizfRExUiTo99u79B_mh0O6tKA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizYRExUiTo99u79D0e0x8mN.ttf
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\s\ptsans\v17\jizYRExUiTo99u79D0e0x8mN.ttf
+Content Type: font/ttf
+
+Uri: https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/899f26b4e4e557608cb1c736/pexels-photo-9770778.jpeg
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\a1389d7bc73adea1e1c1fb7e\899f26b4e4e557608cb1c736\pexels-photo-9770778.jpeg
+Content Type: image/jpeg
+
+Uri: https://kazakhlanguage.nicepage.io/
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\index-1.htm
+Content Type: text/html
+
+Uri: https://kazakhlanguage.nicepage.io/?version=146a2d6c-b9a2-414e-8b53-bda9a35f3d82
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\index.htm
+Content Type: text/html
+
+Uri: https://kazakhlanguage.nicepage.io/About.css
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\About.css
+Content Type: text/css
+
+Uri: https://kazakhlanguage.nicepage.io/About.html
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\About.html
+Content Type: text/html
+
+Uri: https://kazakhlanguage.nicepage.io/Contacts.css
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\Contacts.css
+Content Type: text/css
+
+Uri: https://kazakhlanguage.nicepage.io/Contacts.html
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\Contacts.html
+Content Type: text/html
+
+Uri: https://kazakhlanguage.nicepage.io/History.css
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\History.css
+Content Type: text/css
+
+Uri: https://kazakhlanguage.nicepage.io/History.html
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\History.html
+Content Type: text/html
+
+Uri: https://kazakhlanguage.nicepage.io/nicepage-site.css
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\nicepage-site.css
+Content Type: text/css
+
+Uri: https://kazakhlanguage.nicepage.io/Page-2.css
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\Page-2.css
+Content Type: text/css
+
+Uri: https://kazakhlanguage.nicepage.io/Quiz.css
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\Quiz.css
+Content Type: text/css
+
+Uri: https://kazakhlanguage.nicepage.io/Quiz.html
+File Name: C:\Downloaded Web Sites\kazakhlanguage.nicepage.io\Quiz.html
+Content Type: text/html
+
